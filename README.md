@@ -34,7 +34,7 @@
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/aarushop/CBA-Userbot
+git clone https://github.com/Aaarushop/CBA-Userbot
 cd FridayUserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
